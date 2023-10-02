@@ -1,0 +1,2018 @@
+{
+    "Adjectives": [
+		[
+			"bata",
+			"young"
+		],
+		[
+			"bilog",
+			"round"
+		],
+		[
+			"kalbo",
+			"bald"
+		],
+		[
+			"kalmado",
+			"calm"
+		],
+		[
+			"kulot",
+			"curly"
+		],
+		[
+			"kuwadrado",
+			"square"
+		],
+		[
+			"mabuti",
+			"well|fine|good"
+		],
+		[
+			"magalang",
+			"polite"
+		],
+		[
+			"magulo",
+			"disorderly, messy"
+		],
+		[
+			"mahaba",
+			"long"
+		],
+		[
+			"mahinhin",
+			"modest|refined"
+		],
+		[
+			"mahiyain",
+			"shy"
+		],
+		[
+			"maikli",
+			"short"
+		],
+		[
+			"mainitin ang ulo",
+			"short in temperament"
+		],
+		[
+			"maingay",
+			"noisy"
+		],
+		[
+			"maitim",
+			"dark-complexioned"
+		],
+		[
+			"makapal",
+			"thick"
+		],
+		[
+			"malikot",
+			"restless"
+		],
+		[
+			"malilimutin",
+			"mindless"
+		],
+		[
+			"malungkot",
+			"sad"
+		],
+		[
+			"manipis",
+			"thin"
+		],
+		[
+			"mapagmahal",
+			"loving"
+		],
+		[
+			"maputi",
+			"fair-complexioned"
+		],
+		[
+			"mataba",
+			"stout|fat"
+		],
+		[
+			"matanda",
+			"old"
+		],
+		[
+			"matangos",
+			"pointed (nose)"
+		],
+		[
+			"pahaba",
+			"long"
+		],
+		[
+			"pango",
+			"flat (nose)"
+		],
+		[
+			"payat",
+			"thin"
+		],
+		[
+			"singkit",
+			"narrow slit (eye)"
+		],
+		[
+			"suplad(o|a)",
+			"snobbish"
+		],
+		[
+			"tahimik",
+			"quiet"
+		],
+		[
+			"maganda",
+			"beautiful"
+		],
+		[
+			"bago",
+			"new"
+		],
+		[
+			"nakatira",
+			"residing"
+		],
+		[
+			"bastos",
+			"uncouth|rude"
+		],
+		[
+			"bobo",
+			"stupid"
+		],
+		[
+			"duwag",
+			"coward"
+		],
+		[
+			"guwapo|pogi",
+			"handsome"
+		],
+		[
+			"mabagal",
+			"slow"
+		],
+		[
+			"mabait",
+			"kind"
+		],
+		[
+			"mabilis",
+			"active|fast"
+		],
+		[
+			"magaling (sa)",
+			"good|skilled (at)"
+		],
+		[
+			"mahina",
+			"weak"
+		],
+		[
+			"malakas",
+			"strong"
+		],
+		[
+			"malaki",
+			"big"
+		],
+		[
+			"maliit",
+			"small"
+		],
+		[
+			"mapagkumbaba",
+			"humble"
+		],
+		[
+			"matalino|marunong",
+			"intelligent|wise"
+		],
+		[
+			"matangkad",
+			"tall"
+		],
+		[
+			"matapang",
+			"brave|courageous"
+		],
+		[
+			"mayabang",
+			"conceited|boastful"
+		],
+		[
+			"nakakainis",
+			"annoying|irritating"
+		],
+		[
+			"nakakatuwa",
+			"delightful|pleasing"
+		],
+		[
+			"nakakatawa",
+			"comical|funny"
+		],
+		[
+			"mahirap",
+			"poor|difficult"
+		],
+		[
+			"malinis",
+			"clean"
+		],
+		[
+			"marumi",
+			"dirty"
+		],
+		[
+			"masaya",
+			"happy|cheerful"
+		],
+		[
+			"masipag",
+			"diligent"
+		],
+		[
+			"matapat",
+			"honest"
+		],
+		[
+			"matiyaga",
+			"patient"
+		],
+		[
+			"mayaman",
+			"rich"
+		],
+		[
+			"sinungaling",
+			"liar"
+		],
+		[
+			"tamad",
+			"lazy"
+		],
+		[
+			"masuwerte",
+			"fortunate|lucky"
+		],
+		[
+			"baligtad",
+			"inverted"
+		],
+		[
+			"kaunti",
+			"few, little"
+		],
+		[
+			"luma",
+			"old"
+		],
+		[
+			"mabigat",
+			"heavy"
+		],
+		[
+			"magaan",
+			"light in weight"
+		],
+		[
+			"mahal",
+			"expensive"
+		],
+		[
+			"makinis",
+			"smooth"
+		],
+		[
+			"malambot",
+			"soft"
+		],
+		[
+			"malapad",
+			"wide"
+		],
+		[
+			"maluwag",
+			"loose"
+		],
+		[
+			"mapusyaw",
+			"light in color"
+		],
+		[
+			"marami",
+			"plenty|many"
+		],
+		[
+			"matibay",
+			"durable"
+		],
+		[
+			"matigas",
+			"hard"
+		],
+		[
+			"mura",
+			"inexpensive|cheap"
+		],
+		[
+			"pangit",
+			"ugly"
+		],
+		[
+			"sira",
+			"broken"
+		],
+		[
+			"sira-sira",
+			"dilapidated"
+		],
+		[
+			"uso",
+			"fashionable, current in style"
+		],
+		[
+			"kakaiba",
+			"unusual"
+		],
+		[
+			"pakuwadrado",
+			"squared"
+		],
+		[
+			"pabilog",
+			"circular"
+		],
+		[
+			"mababa",
+			"short (height)"
+		],
+		[
+			"madilim",
+			"dark"
+		],
+		[
+			"makaluma",
+			"old fashioned, traditional"
+		],
+		[
+			"mainit",
+			"hot"
+		],
+		[
+			"malamig",
+			"cold"
+		],
+		[
+			"maliwanag",
+			"bright"
+		],
+		[
+			"maluwang",
+			"spacious"
+		],
+		[
+			"mataas",
+			"tall"
+		],
+		[
+			"masikip",
+			"tight, cramped"
+		],
+		[
+			"walang laman",
+			"empty"
+		],
+		[
+			"maalikabok",
+			"dusty"
+		],
+		[
+			"maaga",
+			"early"
+		],
+		[
+			"mahangin",
+			"windy"
+		],
+		[
+			"makabago",
+			"modern"
+		],
+		[
+			"makasaysayan",
+			"historical"
+		],
+		[
+			"mapayapa",
+			"peaceful"
+		],
+		[
+			"maputik",
+			"muddy"
+		],
+		[
+			"matao",
+			"crowded"
+		],
+		[
+			"matulungin",
+			"helpful"
+		],
+		[
+			"maulan",
+			"rainy"
+		],
+		[
+			"maulap",
+			"cloudy"
+		],
+		[
+			"palakaibigan",
+			"friendly"
+		],
+		[
+			"sariwa",
+			"fresh"
+		],
+		[
+			"tanghali",
+			"noon, late"
+		],
+		[
+			"umido",
+			"humid"
+		],
+		[
+			"walang tao",
+			"deserted"
+		]
+	],
+	"Nouns": [
+		[
+			"eskinata",
+			"alley"
+		],
+		[
+			"gusali",
+			"building"
+		],
+		[
+			"hilaga",
+			"north"
+		],
+		[
+			"kalye",
+			"street"
+		],
+		[
+			"kanluran",
+			"west"
+		],
+		[
+			"mapa",
+			"map"
+		],
+		[
+			"pamilihan",
+			"market"
+		],
+		[
+			"rotonda",
+			"roundabout|intersection"
+		],
+		[
+			"silangan",
+			"east"
+		],
+		[
+			"timog",
+			"south"
+		],
+		[
+			"araw",
+			"sun, day"
+		],
+		[
+			"babae",
+			"female"
+		],
+		[
+			"lalaki",
+			"male"
+		],
+		[
+			"binata",
+			"single male"
+		],
+		[
+			"dalaga",
+			"single female"
+		],
+		[
+			"alaga",
+			"pet"
+		],
+		[
+			"aso",
+			"dog"
+		],
+		[
+			"baboy",
+			"pig"
+		],
+		[
+			"ibon",
+			"bird"
+		],
+		[
+			"isda",
+			"fish"
+		],
+		[
+			"kabayo",
+			"horse"
+		],
+		[
+			"kotse",
+			"car"
+		],
+		[
+			"kuneho",
+			"rabbit"
+		],
+		[
+			"loro",
+			"parrot"
+		],
+		[
+			"manok",
+			"chicken"
+		],
+		[
+			"pagong",
+			"turtle"
+		],
+		[
+			"pera",
+			"money"
+		],
+		[
+			"pusa",
+			"cat"
+		],
+		[
+			"tandang",
+			"rooster"
+		],
+		[
+			"tao",
+			"person"
+		],
+		[
+			"barya",
+			"loose change (money)"
+		],
+		[
+			"bayad",
+			"payment"
+		],
+		[
+			"mamimili",
+			"buyer"
+		],
+		[
+			"presyo",
+			"price"
+		],
+		[
+			"sukat",
+			"size"
+		],
+		[
+			"tela",
+			"fabric"
+		],
+		[
+			"manggas",
+			"sleeves"
+		],
+		[
+			"tinder(o|a)",
+			"seller (male|female)"
+		],
+		[
+			"aparador",
+			"closet"
+		],
+		[
+			"bangko",
+			"bench, bank"
+		],
+		[
+			"banig",
+			"mat"
+		],
+		[
+			"basurahan",
+			"trash can"
+		],
+		[
+			"bentilador",
+			"electric fan"
+		],
+		[
+			"bintana",
+			"window"
+		],
+		[
+			"dingding",
+			"wall"
+		],
+		[
+			"hagdan",
+			"stair"
+		],
+		[
+			"ilaw",
+			"light"
+		],
+		[
+			"kalan",
+			"stove"
+		],
+		[
+			"kama",
+			"bed"
+		],
+		[
+			"kubo",
+			"hut"
+		],
+		[
+			"kubrekama",
+			"bed-spread"
+		],
+		[
+			"kulambo",
+			"mosquito net"
+		],
+		[
+			"kumot",
+			"blanket"
+		],
+		[
+			"kuwadro",
+			"frame"
+		],
+		[
+			"halaman",
+			"plant"
+		],
+		[
+			"lampara",
+			"lamp"
+		],
+		[
+			"libro",
+			"book"
+		],
+		[
+			"litrato",
+			"picture"
+		],
+		[
+			"mesa",
+			"table"
+		],
+		[
+			"orasan",
+			"clock"
+		],
+		[
+			"plorera",
+			"flower vase"
+		],
+		[
+			"puno",
+			"tree"
+		],
+		[
+			"salamin",
+			"mirror"
+		],
+		[
+			"silya",
+			"chair"
+		],
+		[
+			"sopa",
+			"sofa"
+		],
+		[
+			"tabo",
+			"water-dipper"
+		],
+		[
+			"tokador",
+			"dresser"
+		],
+		[
+			"unan",
+			"pillow"
+		],
+		[
+			"walis",
+			"broom"
+		],
+		[
+			"alikabok",
+			"dust"
+		],
+		[
+			"usok",
+			"smoke"
+		],
+		[
+			"bahaghari",
+			"rainbow"
+		],
+		[
+			"bato",
+			"rock"
+		],
+		[
+			"bayan",
+			"town"
+		],
+		[
+			"bituwin",
+			"star"
+		],
+		[
+			"buhangin",
+			"sand"
+		],
+		[
+			"bukid|palayan",
+			"field|farm, rice-(field|farm)"
+		],
+		[
+			"buwan",
+			"month|moon"
+		],
+		[
+			"daan",
+			"road"
+		],
+		[
+			"daungan",
+			"port"
+		],
+		[
+			"hamog",
+			"dew"
+		],
+		[
+			"langit",
+			"sky|heaven"
+		],
+		[
+			"madaling araw",
+			"dawn, sunrise"
+		],
+		[
+			"nayon",
+			"village"
+		],
+		[
+			"putik",
+			"mud"
+		],
+		[
+			"tabing-dagat",
+			"sea-shore"
+		],
+		[
+			"takipsilim",
+			"twilight"
+		],
+		[
+			"tanawin",
+			"view, scenery"
+		],
+		[
+			"ulap",
+			"cloud"
+		],
+		[
+			"bibig",
+			"mouth"
+		],
+		[
+			"buhok",
+			"hair"
+		],
+		[
+			"kilay",
+			"eyebrow(s)"
+		],
+		[
+			"ilong",
+			"nose"
+		],
+		[
+			"mata",
+			"eye(s)"
+		],
+		[
+			"mukha",
+			"face"
+		],
+		[
+			"ngipin",
+			"teeth"
+		],
+		[
+			"tenga",
+			"ear(s)"
+		],
+		[
+			"amerikana",
+			"suit"
+		],
+		[
+			"bestida",
+			"dress"
+		],
+		[
+			"blusa",
+			"blouse"
+		],
+		[
+			"damit",
+			"clothing|T-shirt"
+		],
+		[
+			"hikaw",
+			"earrings"
+		],
+		[
+			"kuwintas",
+			"necklace"
+		],
+		[
+			"maong",
+			"denim|jeans"
+		],
+		[
+			"medyas",
+			"sock(s)"
+		],
+		[
+			"palda",
+			"skirt"
+		],
+		[
+			"pantalon",
+			"pants"
+		],
+		[
+			"polo",
+			"button-down shirt"
+		],
+		[
+			"pulseras",
+			"bracelet"
+		],
+		[
+			"relos",
+			"watch"
+		],
+		[
+			"salamin",
+			"glasses"
+		],
+		[
+			"sando",
+			"sleeveless undershirt"
+		],
+		[
+			"sapatos",
+			"shoes"
+		],
+		[
+			"singsing",
+			"ring"
+		],
+		[
+			"sinturon",
+			"belt"
+		],
+		[
+			"sumbrero",
+			"hat"
+		],
+		[
+			"tsinelas",
+			"slipper(s)"
+		],
+		[
+			"violeta",
+			"violet"
+		],
+		[
+			"asul",
+			"blue"
+		],
+		[
+			"berde",
+			"green"
+		],
+		[
+			"dilaw",
+			"yellow"
+		],
+		[
+			"pula",
+			"red"
+		],
+		[
+			"itim",
+			"black"
+		],
+		[
+			"puti",
+			"white"
+		],
+		[
+			"bulkan",
+			"volcano"
+		],
+		[
+			"bundok",
+			"mountain"
+		],
+		[
+			"burol",
+			"hill"
+		],
+		[
+			"dagat",
+			"ocean"
+		],
+		[
+			"disiyerto",
+			"desert"
+		],
+		[
+			"gubat",
+			"forest"
+		],
+		[
+			"ilog",
+			"river"
+		],
+		[
+			"isla|pulo",
+			"island"
+		],
+		[
+			"kuweba",
+			"cave"
+		],
+		[
+			"lambak",
+			"valley"
+		],
+		[
+			"sapa",
+			"small stream, rivulet"
+		],
+		[
+			"talon",
+			"water fall"
+		],
+		[
+			"alon",
+			"wave"
+		],
+		[
+			"ambon",
+			"drizzle"
+		],
+		[
+			"apoy",
+			"fire"
+		],
+		[
+			"bagyo",
+			"storm"
+		],
+		[
+			"hangin",
+			"air, wind"
+		],
+		[
+			"kidlat",
+			"lightning"
+		],
+		[
+			"kulog",
+			"thunder"
+		],
+		[
+			"lindol",
+			"earthquake"
+		],
+		[
+			"tubig",
+			"water"
+		],
+		[
+			"ulan",
+			"rain"
+		],
+		[
+			"anak",
+			"child"
+		],
+		[
+			"apo",
+			"grandchild"
+		],
+		[
+			"asawa",
+			"spouse"
+		],
+		[
+			"ate",
+			"elder sister"
+		],
+		[
+			"bunso",
+			"youngest sibling"
+		],
+		[
+			"inaanak",
+			"godchild"
+		],
+		[
+			"kaibigan",
+			"friend"
+		],
+		[
+			"kaklase",
+			"classmate"
+		],
+		[
+			"kamag-anak",
+			"family member"
+		],
+		[
+			"kapatid",
+			"sibling"
+		],
+		[
+			"kuya",
+			"elder brother"
+		],
+		[
+			"lola",
+			"grandmother"
+		],
+		[
+			"lolo",
+			"grandfather"
+		],
+		[
+			"mag-anak",
+			"family"
+		],
+		[
+			"magulang",
+			"parent"
+		],
+		[
+			"misis",
+			"wife"
+		],
+		[
+			"mister",
+			"husband"
+		],
+		[
+			"nanay",
+			"mother"
+		],
+		[
+			"ninang",
+			"godmother"
+		],
+		[
+			"ninong",
+			"godfather"
+		],
+		[
+			"pamangkin",
+			"nephew|niece"
+		],
+		[
+			"panganay",
+			"eldest sibling"
+		],
+		[
+			"pinsan",
+			"cousin"
+		],
+		[
+			"tatay",
+			"father"
+		],
+		[
+			"tita",
+			"aunt"
+		],
+		[
+			"tito",
+			"uncle"
+		]
+	],
+	"Other": [
+        [
+			"ngayon",
+			"now"
+		],
+		[
+			"bukas",
+			"tomorrow"
+		],
+		[
+			"hanggang",
+			"until"
+		],
+		[
+			"kahapon",
+			"yesterday"
+		],
+		[
+			"pagkatapos|tapos",
+			"afterward|then"
+		],
+		[
+			"tuwing",
+			"every"
+		],
+		[
+			"kagabi",
+			"last night"
+		],
+		[
+			"kamakalawa",
+			"two days ago"
+		],
+		[
+			"kamakatlo",
+			"three days ago"
+		],
+		[
+			"kanina",
+			"earlier"
+		],
+		[
+			"kaninang umaga|tanghali",
+			"ealier this morning|noon"
+		],
+		[
+			"noong isang buwan|taon",
+			"last month|year"
+		],
+		[
+			"noong nakaraang dalawang buwan",
+			"two months ago"
+		],
+		[
+			"araw-araw",
+			"every day"
+		],
+		[
+			"gabi-gabi",
+			"every night"
+		],
+		[
+			"linggu-linggo",
+			"every week"
+		],
+		[
+			"oras-oras",
+			"every hour"
+		],
+		[
+			"minu-minuto",
+			"every minute"
+		],
+		[
+			"maya't maya",
+			"once in a while"
+		],
+		[
+			"buwan-buwan",
+			"every month"
+		],
+		[
+			"taun-taon",
+			"every year"
+		],
+		[
+			"lagi",
+			"at all times"
+		],
+		[
+			"bukas ng umaga|hapon|gabi",
+			"tomorrow morning|afternoon|evening"
+		],
+		[
+			"mamaya",
+			"later"
+		],
+		[
+			"mamayang hapon|gabi",
+			"later this afternoon|evening"
+		],
+		[
+			"sa isang linggo|buwan|taon",
+			"next week|month|year"
+		],
+		[
+			"sa susunod na linggo|buwan|taon",
+			"next week|month|year"
+		],
+		[
+			"samakalawa",
+			"next two days"
+		],
+		[
+			"banda",
+			"direction, toward, at a certain time"
+		],
+		[
+			"isa",
+			"one"
+		],
+		[
+			"dalawa",
+			"two"
+		],
+		[
+			"tatlo",
+			"three"
+		],
+		[
+			"apat",
+			"four"
+		],
+		[
+			"lima",
+			"five"
+		],
+		[
+			"anim",
+			"six"
+		],
+		[
+			"pito",
+			"seven"
+		],
+		[
+			"walo",
+			"eight"
+		],
+		[
+			"siyam",
+			"nine"
+		],
+		[
+			"sampu",
+			"ten"
+		],
+		[
+			"labing-isa",
+			"eleven"
+		],
+		[
+			"labindalawa",
+			"twelve"
+		],
+		[
+			"labintatlo",
+			"thirteen"
+		],
+		[
+			"labing-apat",
+			"fourteen"
+		],
+		[
+			"labinlima",
+			"fifteen"
+		],
+		[
+			"labing-anim",
+			"sixteen"
+		],
+		[
+			"labimpito",
+			"seventeen"
+		],
+		[
+			"labingwalo",
+			"eighteen"
+		],
+		[
+			"labinsiyam",
+			"nineteen"
+		],
+		[
+			"dalawampu",
+			"twenty"
+		],
+		[
+			"tatlumpu",
+			"thirty"
+		],
+		[
+			"apatnapu",
+			"fourty"
+		],
+		[
+			"limampu",
+			"fifty"
+		],
+		[
+			"animnapu",
+			"sixty"
+		],
+		[
+			"pitumpu",
+			"seventy"
+		],
+		[
+			"walumpu",
+			"eighty"
+		],
+		[
+			"siyamnapu",
+			"ninety"
+		],
+		[
+			"daan",
+			"unit of hundred"
+		],
+		[
+			"libo",
+			"unit of thousand"
+		],
+		[
+			"ko",
+			"my"
+		],
+		[
+			"mo",
+			"your"
+		],
+		[
+			"namin",
+			"our (exclusive)"
+		],
+		[
+			"natin",
+			"our (inclusive)"
+		],
+		[
+			"nila",
+			"their"
+		],
+		[
+			"ninyo",
+			"your (plural)"
+		],
+		[
+			"niya",
+			"his|her"
+		],
+		[
+			"sa akin",
+			"me"
+		],
+		[
+			"sa amin",
+			"us (exclusive)"
+		],
+		[
+			"sa atin",
+			"us (inclusive)"
+		],
+		[
+			"sa inyo",
+			"you (plural)"
+		],
+		[
+			"sa iyo",
+			"you (singular)"
+		],
+		[
+			"sa kinila",
+			"them"
+		],
+		[
+			"sa kaniya",
+			"him|her"
+		],
+		[
+			"gitna",
+			"in between"
+		],
+		[
+			"harap",
+			"in front"
+		],
+		[
+			"ibaba",
+			"lower floor, below"
+		],
+		[
+			"ibabaw",
+			"on top"
+		],
+		[
+			"ilalim",
+			"under"
+		],
+		[
+			"itaas",
+			"upper floor, above"
+		],
+		[
+			"kaliwa",
+			"left"
+		],
+		[
+			"kanan",
+			"right"
+		],
+		[
+			"kanto",
+			"corner"
+		],
+		[
+			"likod",
+			"behind"
+		],
+		[
+			"loob",
+			"inside"
+		],
+		[
+			"labas",
+			"outside"
+		],
+		[
+			"tabi",
+			"next to"
+		],
+		[
+			"tapat",
+			"across"
+		],
+		[
+			"nandito",
+			"here"
+		],
+		[
+			"nandiyan",
+			"there (near to listener)"
+		],
+		[
+			"nandoon",
+			"there (far from speaker and listener)"
+		],
+		[
+			"iyan",
+			"that"
+		],
+		[
+			"ito",
+			"this"
+		],
+		[
+			"iyon",
+			"that (far from speaker and listener)"
+		],
+		[
+			"nasaan",
+			"where (is, are)"
+		],
+		[
+			"saan",
+			"where (action)"
+		],
+		[
+			"Ilan",
+			"how many"
+		],
+		[
+			"nasa",
+			"in, at, on"
+		],
+		[
+			"sa",
+			"in, at, on"
+		],
+		[
+			"taga",
+			"from"
+		],
+		[
+			"kasi",
+			"because"
+		],
+		[
+			"at",
+			"and"
+		],
+		[
+			"pero",
+			"but"
+		],
+		[
+			"daw|raw",
+			"they say|it is said"
+		],
+		[
+			"din|rin",
+			"also|either"
+		],
+		[
+			"pa",
+			"still"
+		],
+		[
+			"ayaw",
+			"not (like|want)"
+		],
+		[
+			"gusto",
+			"like|want"
+		],
+		[
+			"may",
+			"has|exists"
+		]
+	],
+	"Verbs": [
+		[
+			"magbanka",
+			"to travel by boat"
+		],
+		[
+			"magbarko",
+			"to travel by ship"
+		],
+		[
+			"magdyip",
+			"to travel by jeep"
+		],
+		[
+			"magkalesa",
+			"to travel by horse-drawn rig"
+		],
+		[
+			"magkotse",
+			"to travel by car"
+		],
+		[
+			"magtanong",
+			"to ask a question"
+		],
+		[
+			"magtren",
+			"to travel by train"
+		],
+		[
+			"magtrak",
+			"to travel by truck"
+		],
+		[
+			"mag-aral",
+			"to study"
+		],
+		[
+			"mag-ahit",
+			"to shave"
+		],
+		[
+			"mag-almusal",
+			"to have breakfast"
+		],
+		[
+			"magbasa",
+			"to read"
+		],
+		[
+			"magbihis",
+			"to change clothes"
+		],
+		[
+			"magbuhat",
+			"to lift"
+		],
+		[
+			"magdasal",
+			"to pray"
+		],
+		[
+			"maghapunan",
+			"to have dinner"
+		],
+		[
+			"maghilamos",
+			"to wash one's face"
+		],
+		[
+			"maghugas",
+			"to wash an item"
+		],
+		[
+			"magkape",
+			"to drink coffee"
+		],
+		[
+			"magkita",
+			"to meet (with others)"
+		],
+		[
+			"maglaba",
+			"to wash clothes"
+		],
+		[
+			"maglampaso",
+			"to mop|sweep"
+		],
+		[
+			"maglaro",
+			"to play"
+		],
+		[
+			"maglinis",
+			"to clean"
+		],
+		[
+			"magluto",
+			"to cook"
+		],
+		[
+			"magmiryenda",
+			"to have a snack"
+		],
+		[
+			"magmumog",
+			"to rinse one's mouth"
+		],
+		[
+			"magpabango",
+			"to apply perfume|cologne"
+		],
+		[
+			"magpahinga",
+			"to take rest"
+		],
+		[
+			"magpunta",
+			"to go"
+		],
+		[
+			"magsaing",
+			"to cook rice"
+		],
+		[
+			"magsayaw",
+			"to dance"
+		],
+		[
+			"magsimba",
+			"to attend church"
+		],
+		[
+			"magsipilyo",
+			"to brush teeth"
+		],
+		[
+			"magsuklay",
+			"to comb hair"
+		],
+		[
+			"magsulat",
+			"to write"
+		],
+		[
+			"magsuot",
+			"to wear an item"
+		],
+		[
+			"magtanghalian",
+			"to have lunch"
+		],
+		[
+			"magtrabaho",
+			"to work"
+		],
+		[
+			"magturo",
+			"to teach"
+		],
+		[
+			"mag-usap",
+			"to converse"
+		],
+		[
+			"magbakasyon",
+			"to take a vacation"
+		],
+		[
+			"magbaon",
+			"to take|bring supplies"
+		],
+		[
+			"magbayad",
+			"to pay"
+		],
+		[
+			"magbidyo",
+			"to play video games"
+		],
+		[
+			"magbigay",
+			"to give"
+		],
+		[
+			"magbiro",
+			"to crack joke"
+		],
+		[
+			"magdaan",
+			"to pass by"
+		],
+		[
+			"magdala",
+			"to bring"
+		],
+		[
+			"maghanap",
+			"to look for"
+		],
+		[
+			"maghintay",
+			"to wait for"
+		],
+		[
+			"mag-ipon",
+			"to save|gather|collect"
+		],
+		[
+			"magkuwento",
+			"to narrate a story"
+		],
+		[
+			"maglagay",
+			"to put in place"
+		],
+		[
+			"magmaneho",
+			"to drive"
+		],
+		[
+			"magpasyal",
+			"to stroll"
+		],
+		[
+			"magsimula",
+			"to start|begin"
+		],
+		[
+			"mag-uwi",
+			"to take|bring item(s) home"
+		],
+		[
+			"magbenta",
+			"to sell"
+		],
+		[
+			"magtinda",
+			"to sell"
+		],
+		[
+			"magbukas",
+			"to open"
+		],
+		[
+			"bumaha",
+			"to flood"
+		],
+		[
+			"bumalik",
+			"to go|return"
+		],
+		[
+			"bumagyo",
+			"to storm"
+		],
+		[
+			"bumaba",
+			"to go|come down"
+		],
+		[
+			"dumaan",
+			"to pass by"
+		],
+		[
+			"dumalaw",
+			"to visit"
+		],
+		[
+			"dumiretso",
+			"to go straight"
+		],
+		[
+			"humangin",
+			"to blow, as wind"
+		],
+		[
+			"huminto",
+			"to stop"
+		],
+		[
+			"kumaliwa",
+			"to turn left"
+		],
+		[
+			"kumanan",
+			"to turn right"
+		],
+		[
+			"kumidlat",
+			"to flash, as lightning"
+		],
+		[
+			"kumulog",
+			"to thunder"
+		],
+		[
+			"lumabas",
+			"to go out"
+		],
+		[
+			"lumayo",
+			"to (go far|stay) away"
+		],
+		[
+			"lumiko",
+			"to turn"
+		],
+		[
+			"lumipat",
+			"to move"
+		],
+		[
+			"lumindol",
+			"to quake"
+		],
+		[
+			"pumasyal",
+			"to stroll"
+		],
+		[
+			"pumunta",
+			"to go"
+		],
+		[
+			"sumakay",
+			"to ride"
+		],
+		[
+			"sumunod",
+			"to follow"
+		],
+		[
+			"umatras",
+			"to back up"
+		],
+		[
+			"umabante",
+			"to go forward"
+		],
+		[
+			"umakyat",
+			"to climb"
+		],
+		[
+			"umambon",
+			"to drizzle"
+		],
+		[
+			"umaraw",
+			"to become sunny"
+		],
+		[
+			"umikot",
+			"to turn around"
+		],
+		[
+			"umulan",
+			"to rain"
+		],
+		[
+			"dumating",
+			"to|has arrive|arrived"
+		],
+		[
+			"gumising",
+			"to|has awaken|awakened"
+		],
+		[
+			"umuwi",
+			"to|has go|gone home"
+		],
+		[
+			"bumili",
+			"to buy"
+		],
+		[
+			"gumastos",
+			"to spend"
+		],
+		[
+			"gumamit",
+			"to use"
+		],
+		[
+			"humanap",
+			"to look for"
+		],
+		[
+			"humingi",
+			"to ask for"
+		],
+		[
+			"humiram",
+			"to check out, to borrow"
+		],
+		[
+			"kumuha",
+			"to get"
+		],
+		[
+			"lumapit",
+			"to approach"
+		],
+		[
+			"pumasok",
+			"to enter"
+		],
+		[
+			"tumawag",
+			"to call"
+		],
+		[
+			"tumulong",
+			"to help"
+		],
+		[
+			"umutang",
+			"to buy on credit, to borrow money"
+		],
+		[
+			"maligo",
+			"to bathe|shower"
+		],
+		[
+			"makinig",
+			"to listen"
+		],
+		[
+			"manood",
+			"to watch"
+		],
+		[
+			"matulog",
+			"to sleep"
+		]
+	]
+}

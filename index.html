@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tagalog Flash</title>
+<style>
+
+html {
+    font-size: 14px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    color: #f2f2f2;
+    font-family: monospace;
+    background-color: darkblue;
+}
+
+body::-webkit-scrollbar { display: none; }
+
+body {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 1rem;
+    padding: 0;
+}
+
+h1, h2 { font-size: 1.5rem; }
+
+h3, h4 { font-size: 1.25rem; }
+
+h5, h6 { font-size: 0.75rem; }
+
+h1 { font-weight: bold; }
+
+h2 { font-weight: normal; }
+
+h3 { font-weight: bold; }
+
+h4 { font-weight: normal; }
+
+h5 { font-weight: bold; }
+
+h6 { font-weight: normal; }
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin: 0.5rem 1rem 0 2.5rem;
+    padding: 0;
+}
+
+.main-container {
+    margin: 0 auto;
+    width: 95%;
+}
+
+.content-row {
+    margin: 0.5rem auto;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-col {
+    margin: 0.5rem auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.flash-item {
+    margin: 0.5rem;
+    padding: 0;
+    font-size: 1.15rem;
+}
+
+button {
+    background-color: #2f2f2f;
+    color: #f2f2f2;
+    border: none;
+    margin: 0.25rem;
+    padding: 0.25rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+select {
+    background-color: #2f2f2f;
+    color: #f2f2f2;
+    border: none;
+    margin: 0.25rem;
+    padding: 0.25rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+option {
+    background-color: #2f2f2f;
+    color: #f2f2f2;
+    border: none;
+    margin: 0.25rem;
+    padding: 0.25rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+@media (min-width: 500px) {
+    html { font-size: 15px; }
+}
+
+@media (min-width: 650px) {
+    html { font-size: 15px; }
+
+    .main-container { width: 90%; }
+}
+
+@media (min-width: 800px) {
+    html { font-size: 16px; }
+
+    .main-container { width: 80%; }
+}
+
+@media (min-width: 950px) {
+    html { font-size: 16px; }
+
+    .main-container { width: 65%; }
+}
+
+@media (min-width: 1100px) {
+    html { font-size: 17px; }
+
+    .main-container { width: 50%; }
+}
+
+</style>
+</head>
+<body>
+    <div class="main-container">
+        <div class="content-row">
+            <div>
+                <button id="shuffle">Shuffle</button>
+            </div>
+            <div>
+                <select id="display"></select>
+            </div>
+            <div>
+                <select id="types"></select>
+            </div>
+        </div>
+        <div class="content-col" id="items"></div>
+        <div class="content-row">
+            <div>
+                <button id="last">Last</button>
+            </div>
+            <div>
+                <button id="flip">Flip</button>
+            </div>
+            <div>
+                <button id="next">Next</button>
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+
+/**
+ * global
+ ***********************************************/
+
+const displayNumbers = [2, 5, 8];
+
+let languageData = {};
+let state = {};
+
+const vocabularyUrl = '/vocabulary.json';
+
+
+/**
+ * general helpers
+ ***********************************************/
+
+function getLanguageData(url, onSuccess, onError) {
+    fetch(url, {
+        method: 'GET',
+        headers: {
+            'Content-Type': 'application/json'
+        }
+    })
+    .then(response => {
+        if (response.ok) return response.json();
+        
+        throw new Error('error retrieving data');
+    })
+    .then(data => {
+        onSuccess(data);
+    })
+    .catch((error) => {
+        onError(error);
+    });
+}
+
+function getLanguageTypeName() {
+    const typeNames = Object.keys(languageData);
+
+    for (let i = 0; i < typeNames.length; ++i) {
+        if (i == state.type) {
+            return typeNames[i];
+        }
+    }
+
+    return "";
+}
+
+function getUserStateFromStorage() {
+    const get = key => {
+        let i = 0;
+        if (localStorage.getItem(key)) {
+            i = parseInt(localStorage.getItem(key));
+        }
+
+        return i;
+    };
+
+    const st = {
+        seed: get('seed'),
+        display: get('display'),
+        type: get('type'),
+        index: get('index'),
+        side: get('side')
+    };
+
+    if (st.seed == 0) st.seed = 32;
+
+    if (!displayNumbers.some(n => st.display == n)) st.display = displayNumbers[0];
+
+    return st;
+}
+
+function setUserStateInStorage(st) {
+    const set = key => {
+        localStorage.setItem(key, st[key]);
+    };
+
+    set('seed');
+    set('display');
+    set('type');
+    set('index');
+    set('side');
+}
+
+function getRandomSeed(){
+    return Math.floor(Math.random() * 10000 + 10);
+}
+
+function getShuffledLanguageData(data, seed) {
+    const makeRandomGenerator = () => {
+        const m = 16807;
+        const a = 11;
+        const c = 17;
+
+        let z = seed;
+        return () => {
+            z = (a * z + c) % m;
+            return z;
+        };
+    };
+
+    const getShuffled = (gen, ar) => {
+        const shuffled = Array.from(ar);
+        const length = ar.length;
+
+        for (let i = 0; i < length; ++i) {
+            const r = gen() % length;
+            const t = shuffled[i];
+            shuffled[i] = shuffled[r];
+            shuffled[r] = t;
+        }
+
+        return shuffled;
+    }
+
+    const generator = makeRandomGenerator();
+    return Object.keys(data).reduce((a, key) => {
+        const shuffled = getShuffled(generator, data[key]);
+        return { ...a, [key]: shuffled };
+    }, {});
+}
+
+
+/**
+ * html helpers
+ ***********************************************/
+
+function populateDisplayNumbers() {
+    const el = document.getElementById('display');
+    el.innerHTML = "";
+
+    for (let i = 0; i < displayNumbers.length; ++i) {
+        const n = displayNumbers[i];
+        const selected = state.display == n;
+
+        el.innerHTML += "<option value='" + n + "'"
+            + (selected ? " selected>" : ">")
+            + n + "</option>";
+    }
+}
+
+function populateTypes() {
+    const typeNames = Object.keys(languageData);
+
+    const el = document.getElementById('types');
+    el.innerHTML = "";
+
+    for (let i = 0; i < typeNames.length; ++i) {
+        const typeName = typeNames[i];
+        const selected = i == state.type;
+
+        el.innerHTML += "<option value='" + i + "'"
+            + (selected ? " selected>" : ">")
+            + typeName + "</option>";
+    }
+}
+
+function populateItems() {
+    const display = state.display;
+    const index = state.index;
+    const side = state.side;
+
+    const typeName = getLanguageTypeName();
+    const items = languageData[typeName];
+    const iend = index + display;
+
+    const el = document.getElementById('items');
+    el.innerHTML = "";
+
+    for (let i = index; i < iend && i < items.length; ++i) {
+        el.innerHTML += "<div class='flash-item'>"
+            + items[i][side] + "</div>"
+    }
+}
+
+
+/**
+ * event listeners
+ ***********************************************/
+
+function addListeners() {
+    const shuffle = document.getElementById("shuffle");
+    const display = document.getElementById("display");
+    const types = document.getElementById("types");
+    const last = document.getElementById("last");
+    const flip = document.getElementById("flip");
+    const next = document.getElementById("next");
+
+    shuffle.addEventListener('click', () => {
+        state.seed = getRandomSeed();
+        languageData = getShuffledLanguageData(languageData, state.seed);
+        populateItems();
+        setUserStateInStorage(state);
+    });
+
+    display.addEventListener('change', e => {
+        const v = e.target.value;
+        const vi = parseInt(v);
+        
+        if (vi === 'undefined' || vi === null || state.display === vi) return;
+
+        state.display = vi;
+        populateDisplayNumbers();
+        populateItems();
+        setUserStateInStorage(state);
+    });
+
+    types.addEventListener('change', e => {
+        const v = e.target.value;
+        const vi = parseInt(v);
+        
+        if (vi === 'undefined' || vi === null || state.type === vi) return;
+
+        state.type = vi;
+        state.index = 0;
+        populateTypes();
+        populateItems();
+        setUserStateInStorage(state);
+    });
+
+    last.addEventListener('click', () => {
+        const display = state.display;
+        const typeName = getLanguageTypeName();
+        const items = languageData[typeName];
+
+        let i = state.index - display;
+
+        if (i < 0) {
+            const mod = items.length % display;
+            i = mod > 0 ? items.length - mod : items.length - display;
+        }
+
+        if (i < 0) i = 0;
+
+        state.index = i;
+        state.side = 0;
+        populateItems();
+        setUserStateInStorage(state);
+    });
+
+    flip.addEventListener('click', () => {
+        state.side = state.side == 0 ? 1 : 0;
+        populateItems();
+        setUserStateInStorage(state);
+    });
+
+    next.addEventListener('click', () => {
+        const display = state.display;
+        const typeName = getLanguageTypeName();
+        const items = languageData[typeName];
+
+        let i = state.index + display;
+
+        if (i >= items.length) i = 0;
+
+        state.index = i;
+        state.side = 0;
+        populateItems();
+        setUserStateInStorage(state);
+    });
+}
+
+
+/**
+ * main
+ ***********************************************/
+
+function init() {
+    state = getUserStateFromStorage();
+
+    getLanguageData(
+        vocabularyUrl,
+        parsed => {
+            languageData = getShuffledLanguageData(parsed, state.seed);
+
+            populateDisplayNumbers();
+            populateTypes();
+            populateItems();
+
+            addListeners();
+        },
+        er => {
+            console.error(er);
+        }
+    );
+}
+
+init();
+
+</script>
+</html>
