@@ -370,9 +370,19 @@ function addListeners() {
 
     shuffle.addEventListener('click', () => {
         state.seed = getRandomSeed();
-        languageData = getShuffledLanguageData(languageData, state.seed);
-        populateItems();
-        setUserStateInStorage(state);
+        
+        getLanguageData(
+            vocabularyUrl,
+            parsed => {
+                languageData = getShuffledLanguageData(parsed, state.seed);
+
+                populateItems();
+                setUserStateInStorage(state);
+            },
+            er => {
+                console.error(er);
+            }
+        );
     });
 
     display.addEventListener('change', e => {
