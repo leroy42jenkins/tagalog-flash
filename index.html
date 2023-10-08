@@ -7,7 +7,7 @@
 <style>
 
 html {
-    font-size: 14px;
+    font-size: 16px;
 }
 
 body {
@@ -15,7 +15,7 @@ body {
     padding: 0;
     color: #f2f2f2;
     font-family: monospace;
-    background-color: darkblue;
+    background-color: #237676;
 }
 
 body::-webkit-scrollbar { display: none; }
@@ -87,63 +87,58 @@ li {
     font-size: 1.15rem;
 }
 
-button {
-    background-color: #2f2f2f;
-    color: #f2f2f2;
+button,
+select,
+option {
+    margin: 0.5rem;
+    padding: 0.5rem;
     border: none;
-    margin: 0.25rem;
-    padding: 0.25rem;
     text-align: center;
     text-decoration: none;
     font-size: 1rem;
+}
+
+button {
+    background-color: #2f2f2f;
+    color: #f2f2f2;
+    border-radius: 0.25rem;
 }
 
 select {
     background-color: #2f2f2f;
     color: #f2f2f2;
-    border: none;
-    margin: 0.25rem;
-    padding: 0.25rem;
-    text-align: center;
-    text-decoration: none;
-    font-size: 1rem;
+    border-radius: 0.25rem;
 }
 
 option {
     background-color: #2f2f2f;
     color: #f2f2f2;
-    border: none;
-    margin: 0.25rem;
-    padding: 0.25rem;
-    text-align: center;
-    text-decoration: none;
-    font-size: 1rem;
 }
 
 @media (min-width: 500px) {
-    html { font-size: 15px; }
+    html { font-size: 17px; }
 }
 
 @media (min-width: 650px) {
-    html { font-size: 15px; }
+    html { font-size: 17px; }
 
     .main-container { width: 90%; }
 }
 
 @media (min-width: 800px) {
-    html { font-size: 16px; }
+    html { font-size: 18px; }
 
     .main-container { width: 80%; }
 }
 
 @media (min-width: 950px) {
-    html { font-size: 16px; }
+    html { font-size: 18px; }
 
     .main-container { width: 65%; }
 }
 
 @media (min-width: 1100px) {
-    html { font-size: 17px; }
+    html { font-size: 19px; }
 
     .main-container { width: 50%; }
 }
@@ -183,7 +178,7 @@ option {
  * global
  ***********************************************/
 
-const displayNumbers = [2, 5, 8];
+const displayNumbers = [2, 5, 8, 11];
 
 let languageData = {};
 let state = {};
