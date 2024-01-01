@@ -1,5 +1,5 @@
 {
-    "Adjectives": [
+	"Adjectives": [
 		[
 			"bata",
 			"young"
@@ -1148,7 +1148,7 @@
 		]
 	],
 	"Other": [
-        [
+		[
 			"ngayon",
 			"now"
 		],
@@ -2013,6 +2013,824 @@
 		[
 			"matulog",
 			"to sleep"
+		]
+	],
+	"Sentences": [
+		[
+			"Magandang hapon, Albert.",
+			"Good afternoon, Albert."
+		],
+		[
+			"Magandang hapon din naman, Alan. Siyanga pala, heto si Anne, kaklase ko.",
+			"Good afternoon, Alan. Here's Anne, my classmate."
+		],
+		[
+			"Kumusta ka, Anne? Ako si Alan.",
+			"How are you, Anne? My name is Alan."
+		],
+		[
+			"Mabuti naman. Salamat.",
+			"That's good. Thank you."
+		],
+		[
+			"Taga saan ka, Anne?",
+			"Where are you from, Anne?"
+		],
+		[
+			"Taga-Cebu ako. Ikaw, taga saan ka?",
+			"I'm from Cebu. You, where are you from?"
+		],
+		[
+			"Taga-Maynila ako. Saan ka nakatira sa Maynilla?",
+			"I'm from Manila. Where do you live in Maynilla?"
+		],
+		[
+			"Nakatira ako sa Westwood. Ikaw?",
+			"I live in Westwood. You?"
+		],
+		[
+			"Sa Fort ako nakatira.",
+			"I live in the Fort."
+		],
+		[
+			"Nasaan ang Fort?",
+			"Where is Fort?"
+		],
+		[
+			"Nasa Smith Road. Malapit lang sa Makati. O sige na muna. Pupunta na ako sa klase, ha.",
+			"It's on Smith Road. It's close to Makati. Okay, first. I'm going to class, ha."
+		],
+		[
+			"Magandang umaga. Ako si Albert. Ikaw, ano ang pangalan mo?",
+			"Good morning. My name is Albert. You, what's your name?"
+		],
+		[
+			"Ako si Alan. Kumusta ka, Albert?",
+			"My name is Alan. How are you, Albert?"
+		],
+		[
+			"Mabuti naman ako, Estudyante ka ba dito?",
+			"I'm good, Are you a student here?"
+		],
+		[
+			"Oo, Narsing ang kurso ko. Ikaw, ano ang kurso mo?",
+			"Yes, I have a nursing course. You, what's your course?"
+		],
+		[
+			"Accounting ang kurso ko. Taga saan ka?",
+			"My course is accounting. Where are you from?"
+		],
+		[
+			"Taga-Bulacan ako. Ikaw?",
+			"I'm from Bulacan. You?"
+		],
+		[
+			"Taga-Abra ako. Saan ka nakatira dito?",
+			"I'm from Abra. Where do you live here?"
+		],
+		[
+			"Nakatira ako sa dormitoryo malapit sa ekwelahan. Ikaw?",
+			"I live in a dormitory near the school. You?"
+		],
+		[
+			"Sa Merville ako nakatira.",
+			"I live in Merville."
+		],
+		[
+			"Nasaan ang Merville?",
+			"Where is Merville?"
+		],
+		[
+			"Nasa Paranaque. O sige na muna. Pupunta na ako sa klase, ha.",
+			"It's in Paranaque. Okay, first. I'm going to class, ha."
+		],
+		[
+			"O sige. Kita tayo mamaya.",
+			"Okay. See you later."
+		],
+		[
+			"O sige. Ingat ka!",
+			"Okay. Take care!"
+		],
+		[
+			"Alan, may tket ako para sa basketbol sa Biyernes. Gusto mo ba?",
+			"Alan, I have a jacket for basketball on Friday. Do you like it?"
+		],
+		[
+			"Hindi, salamat. Ayaw ko ang Ginebra, eh.",
+			"No, thank you. I don't like Ginebra, eh."
+		],
+		[
+			"Bakit? Sino ang gusto mo?",
+			"Why? Who do you want?"
+		],
+		[
+			"Gusto ko ang San Miguel Beermen. Pero sa totoo lang, mas gusto ko ng larong beysbol.",
+			"I like San Miguel Beermen. But honestly, I prefer the game of baseball."
+		],
+		[
+			"Ikaw? Gusto mo ba ng beysbol?",
+			"You? Do you like beysball?"
+		],
+		[
+			"Ayos lang.",
+			"That's fine."
+		],
+		[
+			"Sino ang gusto mong boksingero?",
+			"Who do you want to be a boxer?"
+		],
+		[
+			"Siyempre, si Manny Pacquiao. Kasi magaling at mabilis si Manny.",
+			"Of course, Manny Pacquiao. Manny was very fast and efficient."
+		],
+		[
+			"Kumusta kayo? Ako si Mei. Taga-Taiwan ako. Ngayon, estudyante ako sa Unibersidad ng Centro Escolar.",
+			"How are you doing? My name is Mei. I'm from Taiwan. Today, I am a student at the University of Centro Escolar."
+		],
+		[
+			"Ingles ang Kurso ko. Nakatira ako sa Maynila malapit sa unibersidad. Gusto ko ng beysbol at bilyar.",
+			"My Course is English. I live in Manila near the university. I love baseball and billiards."
+		],
+		[
+			"Ako si Carlos. Taga-Baguio ako.",
+			"I'm Carlos. I'm from Baguio."
+		],
+		[
+			"Estudyante ako sa Unibersidad ng Pilipinas. Literatura ang kurso ko.",
+			"I am a student at the University of the Philippines. My course is literature."
+		],
+		[
+			"Magandang hapon! Ako si Tanya. Taga-Espanya ako.",
+			"Good afternoon! My name is Tanya. I'm from Spain."
+		],
+		[
+			"Medisina ang kurso ko at nag-aaral ako sa Unibersidad ng Santo Tomas. ",
+			"I am a medical student and I am studying at the University of Santo Tomas. "
+		],
+		[
+			"Gusto ko ng mga musika at libro.",
+			"I love music and books."
+		],
+		[
+			"Kumusta na? Si Joaquin ito. Taga-Mindanao ako.",
+			"How's it going? It's Joaquin. I'm from Mindanao."
+		],
+		[
+			"Nag-aaral ako sa Kolehiyo ng San Beda ng abogasiya.",
+			"I am studying at the College of San Beda of Law."
+		],
+		[
+			"Gusto ko ng mga isports. Gusto ko ang bilyar at basketbol.",
+			"I like sports. I love billiards and basketball."
+		],
+		[
+			"Nandiyan po ba si Alan?",
+			"Is Alan there?"
+		],
+		[
+			"Oo, tuloy ka. Alan! Nandito na ang kaibigan mo.",
+			"Yes, go ahead. Alan! Your friend is here."
+		],
+		[
+			"O Albert. Halika. 'Tay, heto po ang kaibigan ko, si Albert. Albert, heto ang tatay ko.",
+			"Or Albert. Come. 'Daddy, here's my friend, Albert. Albert, here's my dad."
+		],
+		[
+			"O kumusta ka, iho? Halika, kain tayo.",
+			"Or how are you, honey? Come, let's eat."
+		],
+		[
+			"Salamat po, Tito. Alan, sinu-sino ang mga nandito?",
+			"Thank you, Tito. Alan, who are the people here?"
+		],
+		[
+			"Nandito ang lahat ng kamag-anak namin. Nandoon ang mga tito at tita ko.",
+			"All of our relatives are here. My uncles and uncles were there."
+		],
+		[
+			"Pagkatapos, nasa itaas naman ang mga pinsan ko at ang mga kapatid ko.",
+			"My brothers and sisters were upstairs."
+		],
+		[
+			"Sino naman ang nasa kusina?",
+			"Who is in the kitchen?"
+		],
+		[
+			"Sina Lola at Lolo at ang mga kaibigan ni Nanay.",
+			"Grandma and Grandpa and Mom's friends."
+		],
+		[
+			"Ilang taon na sila?",
+			"How old are they?"
+		],
+		[
+			"Animnapu na si Lola at animnapu't dalawa si Lolo. O sige. Kain muna tayo.",
+			"Grandma is sixty and Grandpa is sixty-two. Okay. Let's eat first."
+		],
+		[
+			"Siya si Mario. Dalawampu't limang taon na siya. Nakatira siya sa Paranaque.",
+			"His name is Mario. He was twenty-five years old. He lives in Paranaque."
+		],
+		[
+			"Taga-Maynila ang nanay ni Mairo at taga-Cebu naman ang tatay niya.",
+			"Mairo's mother is from Manila and her father is from Cebu."
+		],
+		[
+			"Nars ang nanay niya at abogado naman ang tatay niya.",
+			"Her mother was a nurse and her father was a lawyer."
+		],
+		[
+			"Kasama si Mario ang tatay at nanay niya sa bahay nila.",
+			"Mario was with his father and mother at home."
+		],
+		[
+			"May asawa na si Mario, Lita ang pangalan. Nagtatrabaho si Lita sa bangko.",
+			"Mario is married, Lita is named. Lita works at the bank."
+		],
+		[
+			"Doktor naman si Mario. May dalawa silang anak, si Paolo at si Joan.",
+			"Mario was a doctor. They have two children, Paolo and Joan."
+		],
+		[
+			"Mababait at matatalino ang mga anak nina Mario.",
+			"Mary's children were wise and kind."
+		],
+		[
+			"Ito ang pamilya ko. Ako ang bunso sa pamilya.",
+			"This is my family. I was the youngest in the family."
+		],
+		[
+			"May maanika ako sa litrato at naka-asul na bestida ako.",
+			"I had a picture of the flower and I was wearing a blue dress."
+		],
+		[
+			"Nasa likod ko ang pamilya ko. Mabait at mapagmahal sila.",
+			"My family is behind me. They are kind and loving."
+		],
+		[
+			"Nasa kanan si Lolo. Naka-asul na pantalon siya.",
+			"Grandpa is on the right. He was wearing blue pants."
+		],
+		[
+			"Nasa tabi ni Lolo si Tatay. Matapang at guwapo siya.",
+			"Dad was next to Grandpa. He was brave and handsome."
+		],
+		[
+			"Nasa harap ni Tatay ang kapatid ko. Jojo ang pangalan niya. Matalino ang masipag siya.",
+			"My brother was in front of Dad. His name is Jojo. He was smart."
+		],
+		[
+			"Nasa tabi ni Tatay si Nanay. Maganda at mahinhin siya.",
+			"Mom was by Dad's side. She was beautiful and modest."
+		],
+		[
+			"Nasa harap ni Nanay si Lola. Naka-berdeng palda at naka-hikaw siya.",
+			"Grandma was in front of Mom. She was wearing a green skirt and a pair of earrings."
+		],
+		[
+			"Nasa tabi ni Lola si Mario. Tito ko si Mario. Mabait at guwapo siya.",
+			"Mario was next to Grandma. My uncle Mario. He was kind and handsome."
+		],
+		[
+			"Nanay, ito po ang kaibigan ko, si Albert. Albert, ito ang nanay ko.",
+			"Mom, this is my friend, Albert. Albert, this is my mother."
+		],
+		[
+			"Kumusta po kayo, Tita?",
+			"How are you, Aunt?"
+		],
+		[
+			"Mabuti naman. Taga saan ang pamilya mo, Albert?",
+			"That's good. Where's your family from, Albert?"
+		],
+		[
+			"Taga-Bicol po.",
+			"Bicol."
+		],
+		[
+			"May kamag-anak ka ba dito sa Maynila?",
+			"Do you have a relative here in Manila?"
+		],
+		[
+			"Opo. Nandito po ang pamilya ko.",
+			"Yes. My family is here."
+		],
+		[
+			"May mga kapatid ka ba?",
+			"Do you have any siblings?"
+		],
+		[
+			"Opo. Pero nasa Bicol po siya.",
+			"Yes. But he's on Bicol."
+		],
+		[
+			"Mayroon din ba kayong bahay sa Bicol?",
+			"Do you also have a house in Bicol?"
+		],
+		[
+			"Wala po kaming bahay sa Bicol. Nakatira po ang kapatid ko sa bahay ng lola ko.",
+			"We didn't have a house in Bicol. My brother lives in my grandmother's house."
+		],
+		[
+			"Talaga? O sige. Maiwan ko na muna kayo. Magpupunta na ako sa trabaho.",
+			"Really? Okay. I can leave you alone. I'm going to work."
+		],
+		[
+			"O sige po Tita.",
+			"Okay, Aunt."
+		],
+		[
+			"Sabihin mo nga sa akin kung ano ang tipikal na araw mo.",
+			"Tell me what your day is."
+		],
+		[
+			"O sige po. Gumigising ho ako nang alas sais ng umaga. Pagkatapos naliligo ako at nag-aalmusal.",
+			"Okay. I woke up at 6:00 in the morning. Then I take a shower and have breakfast."
+		],
+		[
+			"Tapos, nagmamaneho ako papunta sa opisina.",
+			"Then, I drive to the office."
+		],
+		[
+			"Ano'ng oras ka naman dumadating sa opisina mo?",
+			"What time do you come to your office?"
+		],
+		[
+			"Dumadating ho ako nang alas otso.",
+			"I'll be here at eight."
+		],
+		[
+			"Ano'ng oras ka naman umuuwi?",
+			"What time do you go home?"
+		],
+		[
+			"Mga alas singko ho. Tapos naghahapunan kami nang alas sais.",
+			"About five o'clock. Then we had dinner at six o'clock."
+		],
+		[
+			"Pagkatapos, naglalaro kami ng mga anak namin at nagbabasa kami ng libro hanggang alas otso.",
+			"Then, we play with our children and read the book until eight."
+		],
+		[
+			"Nagsusulat ka rin ng libro, hindi ba? Kailan mo ito ginagawa?",
+			"You're also writing a book, aren't you? When do you do it?"
+		],
+		[
+			"Kadalasan, nag-uusap ho ako at ang asawa ko hanggang alas diyes, pagkatatapos, nagsusulat na ako hanggang alas dose.",
+			"Most of the time, my wife and I talk until ten, and then I write until twelve."
+		],
+		[
+			"Tapos gumigising ka nang alas singko ng umaga?",
+			"Then you wake up at five in the morning?"
+		],
+		[
+			"Opo, kasi importante na may oras ako sa trabaho at pamilya ko.",
+			"It's important that I have time for work and family."
+		],
+		[
+			"Pero sa palagay ko po, mahirap din ang trabaho ng asawa ko, kasi siya ang nag-aalaga ng mga anak namin, naglilinis ng bahay, at nagluluto.",
+			"But I think my husband's job is also hard, because he takes care of our children, cleans the house, and cooks."
+		],
+		[
+			"Pero masaya naman siya sa trabaho niya.",
+			"But he was happy with his work."
+		],
+		[
+			"O sige, talagang masuwerte ka sa pamilya mo.",
+			"You're really lucky in your family."
+		],
+		[
+			"Sa palagay ko rin po.",
+			"I think so too."
+		],
+		[
+			"Magpunta ba ang nobya ni Albert sa bahay niya?",
+			"Would Albert's fiancée go to his house?"
+		],
+		[
+			"Ano ang okasyon sa Lunes?",
+			"What's the occasion on Monday?"
+		],
+		[
+			"Saan magpupunta sina Albert sa Martes?",
+			"Where is Albert going on Tuesday?"
+		],
+		[
+			"Mayroon bang pasok sa Miyerkules sina Albert?",
+			"Does Albert have a Wednesday school?"
+		],
+		[
+			"Kailan maglilinis ng bahay si Albert?",
+			"When will Albert clean the house?"
+		],
+		[
+			"Saan maghahapunan si Albert at ang mga kaibigan niya sa Huwebes?",
+			"Where will Albert and his friends have dinner on Thursday?"
+		],
+		[
+			"Ano'ng oras magkikita si Albert at ang mga kaibigan niya sa Huwebes?",
+			"What time will Albert and his friends meet on Thursday?"
+		],
+		[
+			"Saan magpupunta si Albert at ang mga kaibigan niya sa Biyernes?",
+			"Where are Albert and his friends going on Friday?"
+		],
+		[
+			"Sa palagay mo, kailan ang paboritong araw ni Albert?",
+			"When do you think Albert's favorite day was?"
+		],
+		[
+			"Sino ang kasama ni Albert sa Sabado at Linggo?",
+			"Who's with Albert on the weekend?"
+		],
+		[
+			"Alam mo ba na may eskwelahan ng sayaw malapit lang sa bahay mo?",
+			"Did you know there's a dance school near your house?"
+		],
+		[
+			"Magaling daw ang titser doon eh. Nagtuturo raw siya ng sayaw sa mga estudyante sa UST. Mag-aral tayo.",
+			"The teacher there seemed to be good. He teaches dance to the students in the UST. Let's get on with it."
+		],
+		[
+			"Hindi naman ako nagsasayaw, eh.",
+			"I don't dance, eh."
+		],
+		[
+			"Ayos lang! Hindi rin ako nagsasayaw pero sa palagay ko, mabuting libangan ito pagkatapos ng eskwela.",
+			"That's fine! I don't dance either, but I think it's a good after-school hobby."
+		],
+		[
+			"Anu-ano'ng klase ba ng sayaw ang mayroon?",
+			"What kind of dance is there?"
+		],
+		[
+			"Naku! Ayos lang 'yan. Iba-iba naman ang level ng klase, eh. Mayroon para sa mga magaling at mayroon din para sa atin na nagsisimula pa lang.",
+			"Oh my! That's okay. The class is different, eh. There are for the good and there are also for those of us who are just beginning."
+		],
+		[
+			"O sige na nga.",
+			"Okay."
+		],
+		[
+			"Ayos! Sige, tapos, mag-gym naman tayo tuwing Miyerkules at Sabado.",
+			"Fine! Okay, then, let's go to the gym every Wednesday and Saturday."
+		],
+		[
+			"O sige. Magkita tayo bukas sa gym.",
+			"Okay. See you tomorrow at the gym."
+		],
+		[
+			"Mahilig ka bang magsayaw? Gusto mo bang makakilala ng mga bagong kaibigan?",
+			"Do you like to dance? Do you want to meet new friends?"
+		],
+		[
+			"Kung oo ang iyong sagot, magpunta ka sa sayawan namin sa Makati Ave. katabi ng isang parke sa Pason Tamo tuwing Huwebes ng gabi.",
+			"If your answer is yes, go to our dance on Makati Ave. next to a park in Pason Tamo every Thursday night."
+		],
+		[
+			"Si Albert ang magtuturo ng sayaw sa inyo. Siya ay nagsasayaw nang mahigit sa sampung taon ng kundiman at pandanggo sa ilaw.",
+			"Albert will teach you dance. He has been dancing for over ten years and dancing in the light."
+		],
+		[
+			"Pwedeng mag-aral kahit sino, may karanasan o wala.",
+			"Anyone can study, experienced or not."
+		],
+		[
+			"Para sa direksyon, presyo at iba pang impormasyon tumawag sa: 0917-891-0905",
+			"For directions, prices and other information call: 0917-891-0905"
+		],
+		[
+			"Humahanap ako ng bestida. Nasaan ba ang mga ito?",
+			"I'm looking for clothes. Where the hell are they?"
+		],
+		[
+			"Nandito po. Ano po bang klase ng bestida ang gusto ninyo? Gusto ko ng pormal na bestida.",
+			"Here. What kind of clothes do you want? I like formal dresses."
+		],
+		[
+			"Heto po. Mahaba at malambot po ang tela ng bestida na ito. Gusto po ba ninyo ito?",
+			"Here it is. The fabric of this dress is long and soft. Do you guys like it?"
+		],
+		[
+			"Oo. Mayroon ka ba nito sa itim? Opo. Mayroon po kami. Ano ho ang sukat ninyo?",
+			"Yes. Do you have it in black? Yes. We have. What's your size?"
+		],
+		[
+			"Ay! Wala na po kami n'yan sa medium, pero mayroon ho kaming small. Gusto ho ba ninyong isukat ninyo?",
+			"Is! We didn't have a lot of space in the middle, but we had a small one. Would you like to measure?"
+		],
+		[
+			"Nako! Masikip yata. Hindi po. Kasiyang-kasiya po sa inyo. Maluwag pa nga po.",
+			"I do! It's tight I think. No no. It's pleasing to you. It's even loose."
+		],
+		[
+			"O sige na nga. Magkano ba ito? Isang libo lang po.",
+			"Okay. How much is it? Only a thousand."
+		],
+		[
+			"O sige. Saan ako magbabayad? Pumumta po kayo doon.",
+			"Okay. Where do I pay? Go there."
+		],
+		[
+			"O Albert. Tuloy ka! Pasensya ka na at magulo dito ah!",
+			"Or Albert. Keep going! I'm sorry you're so messy here ah!"
+		],
+		[
+			"Hindi! Ayos naman. Gusto ko nga ang apartment mo, eh.",
+			"Nope! That's fine. I like your apartment, eh."
+		],
+		[
+			"Gusto ko ang mga painting sa dingding mo. Saan mo nabili ito?",
+			"I like the paintings on your wall. Where did you buy it?"
+		],
+		[
+			"Sa Baguio. Teka, tingnan mo ang kuwarto ko.",
+			"in Baguio. Wait, look at my room."
+		],
+		[
+			"Ang laki-laki! Ilan ang kuwarto lahat dito?",
+			"It's so big! How many rooms are all here?"
+		],
+		[
+			"Dalawa lang. Tapos, dalawa rin ang CR namin.",
+			"Only two. Then we had two CRs."
+		],
+		[
+			"Hindi ko alam na mahilig ka sa mga litrato. Gusto ko ang mga litrato sa ibabaw ng mesa mo at ang mga kuwadro sa tabi ng kompyuter mo.",
+			"I didn't know you liked pictures. I love the pictures on your desk and the paintings next to your computer."
+		],
+		[
+			"Oo, mula sa Tagaytay ang mga litrato na iyan.",
+			"Yes, these pictures are from the gallery."
+		],
+		[
+			"Eh ang mga sumbrero sa loob ng kabinet mo? Saan mo nakuha ang mga ito?",
+			"The hats in your cabinet? Where did you get them?"
+		],
+		[
+			"Koleksyon ko iyan ng mga paborito kong mga baseball team. May dalawampu akong sumbrero.",
+			"That's my collection of my favorite baseball teams. I have twenty hats."
+		],
+		[
+			"Ang galing! Akin na lang ang isa.",
+			"That's awesome! I'm the only one."
+		],
+		[
+			"Sa gitna ng kahon bandang ibaba magdrowing ka ng telebisyon. Sa harap ng telebisyon mayroong mesa.",
+			"In the middle of the box below you draw a television. In front of the television there is a table."
+		],
+		[
+			"Mahaba ang mesa ito. Nasa kaliwa ng mesa ang isang maliit na sopa.",
+			"It's a long table. To the left of the table is a small sofa."
+		],
+		[
+			"Nasa kanan ng mesa ang isang recliner. Nasa harapan ng mesa ang isang mahaban sopa.",
+			"To the right of the table is a recliner. In front of the table was a long sofa."
+		],
+		[
+			"Nasa gilid, bandang kaliwa ng mahabang sopa ang isang maliit na mesa. Nasa kanan ng mahabang sopa ang isang halaman.",
+			"On the other side of the table is a small table. To the right of the long couch is a plant."
+		],
+		[
+			"Ang rice terraces sa Banawe ang isa sa mga paborito kong lugar sa Luzon.",
+			"The rice terraces in Banawe are one of my favorite places in Luzon."
+		],
+		[
+			"Napakalaki at napakataas ng hagdan-hagdang palayan na ito.",
+			"This rice paddy staircase is huge and very high."
+		],
+		[
+			"Ginawa raw ito ng mga katutubong Pilipino at dito sila nagtatanim ng palay.",
+			"The natives of the Philippines did this and they planted rice here."
+		],
+		[
+			"Gusto ko ang lugar na ito kasi sariwang-sariwa ang hangin at mapayapa ang lugar na ito.",
+			"I like this place because the air is fresh and the place is peaceful."
+		],
+		[
+			"Ang Chocolate Hills sa Bohol ang pinakapaborito kong lugar sa Visayas.",
+			"Chocolate Hills in Bohol is my favorite place in Visayas."
+		],
+		[
+			"Mayroong isang libo dalawang daan at animnapu't walong burol ang makikita dito.",
+			"There are a thousand two hundred and sixty-eight hills here."
+		],
+		[
+			"Magkasinlaki ang bawat burol dito at kung tag-ulan, berde ang mga burol at kung tag-init, nagiging kulay tsokolate ang mga burol.",
+			"Every hill here is the same size and if it's rainy the hills are green and if it's summer, the hills turn chocolate colored."
+		],
+		[
+			"Gusto ko ang lugar na ito kasi napakasariwa ng hangin dito at tahimik na tahimik dito.",
+			"I love this place because it's so quiet and the air is so quiet."
+		],
+		[
+			"Ang Camiguin ang pinakamaliit na siyudad sa hilagang Mindanao.",
+			"Camiguin is the smallest city in northern Mindanao."
+		],
+		[
+			"Sa lugar na ito, makikita ang pinakamagandang tabing-dagat.",
+			"In this area, the most beautiful beach can be seen."
+		],
+		[
+			"Bukod dito, ang mga tao dito ay napakarelihiyoso, matulungin at palakaibigan.",
+			"Moreover, the people here are very religious, helpful and friendly."
+		],
+		[
+			"Nag-PhD si Andrea sa Sikolohiya sa University of Califonia sa Berkeley.",
+			"Andrea earned a PhD in Psychology at the University of Califonia in Berkeley."
+		],
+		[
+			"Tatlumpung apat na taong gulang na siya at kasalukuyang dalaga.",
+			"She is now 34 years old and a young woman."
+		],
+		[
+			"Hindi mahilig si Andrea na magpunta sa klab.",
+			"Andrea doesn't like going to the club."
+		],
+		[
+			"Kadalasan, nagsusulat lamang siya at nagri-research para sa kaniyang bagong libro.",
+			"He often writes and researches for his new book."
+		],
+		[
+			"Dalawampu't dalawang taong gulang na si Anthony at kakatapos lamang niya sa kolehiyo.",
+			"Anthony is twenty-two years old and has just graduated from college."
+		],
+		[
+			"Computer Science ang kurso niya.",
+			"His course was Computer Science."
+		],
+		[
+			"Kasalukuyang binata si Anthony at nakatira siya sa bahay ng mga magulang niya sa Melbourne, Australia.",
+			"Anthony is currently a young man and lives at his parents' house in Melbourne, Australia."
+		],
+		[
+			"Mahilig magpunta si Anthony sa mga gimikan at gustong-gusto niyang makipagkilala sa mga tao.",
+			"Anthony likes to go to gimmicks and likes to meet people."
+		],
+		[
+			"Apatnapu't limang taong gulang na si Sarah. May asawa at tatlong anak si Sarah.",
+			"Sarah is forty-five years old. Sarah is married and has three children."
+		],
+		[
+			"Kasalukuyang nasa elementarya pa lamang ang tatlong anak niya.",
+			"Her three children are currently in elementary school."
+		],
+		[
+			"Akawntant si Sarah at abogado naman ang asawa niya.",
+			"Sarah was a lawyer and her husband was a lawyer."
+		],
+		[
+			"Mahilig sa mga outdoor na aktibiti ang pamilya ni Sarah tulad ng pag-akyat sa bundok at pamimingwit.",
+			"Sarah's family loves outdoor activities such as mountain climbing and singing."
+		],
+		[
+			"Retirado na si Oscar at ang asawa niya. May sarili nang pamilya ang lahat ng mga anak nila.",
+			"Oscar and his wife are retired. All of their children have their own families."
+		],
+		[
+			"Wala nang obligasyon sa buhay ang mag-asawa.",
+			"There is no longer any obligation in life between husband and wife."
+		],
+		[
+			"May problema sa puso si Oscar, nag-eehersisyo at nagdya-jogging siya sa labas ng bahay nila araw-araw.",
+			"Oscar has heart problems, he works out and jogs outside his house every day."
+		],
+		[
+			"Ang Parke sa bayan ang paborito kong lugar. Dito ako nakakakita ng katahimikan kaya nakakapagbasa ako dito ng mga libro.",
+			"The Park in town is my favorite place. I can see the silence here so I can read books."
+		],
+		[
+			"Sa umaga, marami kang makikitang taong naglalakad.",
+			"In the morning, you see a lot of people walking."
+		],
+		[
+			"Ang iba ay may kasamang anak at ang iba nama'y kasama ang kanilang mga mahal sa buhay.",
+			"Some have children and others are with their loved ones."
+		],
+		[
+			"Pagdating ng hapon, gustong-gusto kong tumingin sa lawa para tingnan ang paglubog ng araw.",
+			"Come afternoon, I love looking at the lake to see the sunset."
+		],
+		[
+			"Lumaki ako sa isang probinsiya sa Pilipinas. Sa probinsiya namin, kaunti lang ang mga tao pati na ang mga sasakyan.",
+			"I grew up in a rural area in the Philippines. In our province, there are very few people including cars."
+		],
+		[
+			"Talagang kapansin-pansin na sariwang-sariwa ang hangin.",
+			"It's really remarkably fresh air."
+		],
+		[
+			"At ang mga dagat, ilog at lawa naman ay maraming mga isda at malinis na malinis ang tubig.",
+			"The seas, rivers and lakes are full of fish and the water is very clean."
+		],
+		[
+			"Pwede ditong maligo. Isang araw natatandaan ko na nagpunta ako sa tabing-ilong kasama ang nanay ko.",
+			"It can be bathed. One day I remember going to the side nose with my mom."
+		],
+		[
+			"Naglaba ang nanay ko habang naliligo naman ako. Masayang-masaya ang araw na iyon.",
+			"My mother was in the shower while I was in the shower. It was a great day."
+		],
+		[
+			"Lumipat na ako ng bagong apartment dito sa Makati. Pumunta ka naman at pumasyal tayo dito.",
+			"I have moved to a new apartment in Makati. Come and visit here."
+		],
+		[
+			"May maraming sinehan, pamilihan at kainan dito.",
+			"There are many cinemas, markets and restaurants here."
+		],
+		[
+			"Kaya kung hindi okupado sa susunod na Biyernes, dumalaw ka naman akin at manood tayo ng bagong sine at kumain sa isang masarap na restawran dito.",
+			"So if you're not busy next Friday, come visit me and let's go see a new movie and eat at a nice restaurant here."
+		],
+		[
+			"O heto ang direksiyon papunta sa bahay ko.",
+			"This is the direction to my house."
+		],
+		[
+			"Mula sa bahay mo, magbus ka papunta sa Alabang. Pagkatapos, bumaba ka sa Ayala Ave.",
+			"From your house, you go to the Alabang. Then, go down to Ayala Ave."
+		],
+		[
+			"Pagkatapos, kumaliwa ka sa Rada at kumanan ka sa Legaspi.",
+			"Then, turn left in Rada and eat in Legaspi."
+		],
+		[
+			"Dumiretso ka lang dito at makikita mo ang apartment ko sa kaliwa. 543 ang numero ng gusali.",
+			"Just head straight here and you'll find my apartment on the left. The building number is 543."
+		],
+		[
+			"Nakatira si Hiro malayo sa siyudad.",
+			"Hiro lives far from the city."
+		],
+		[
+			"Ngayong araw na ito, pupunta si Hiro sa Downtown para bumili ng pagkain, maghulog ng mga sulat sa pos opis at makipagkita sa kaibigan niya.",
+			"Today, Hiro will go to Downtown to buy food, drop letters to the pos officer and meet his friend."
+		],
+		[
+			"Pagkatapos niyang kumain ng almusal, handa na si Hiro para sa mga gawain niya ngayong araw na ito.",
+			"After breakfast, Hiro was ready for his tasks today."
+		],
+		[
+			"Sumakay siya sa trak niya pero wala na itong gasolina. Sumakay siya sa vespa niya pero malambot ang gulong nito.",
+			"He got into his truck, but it was out of gas. He was on his way to the shore, but his legs were soft."
+		],
+		[
+			"Malaki ang problema ni Hiro. Sa wakas, nakita niya ang bisikleta niya!",
+			"Hiro had a big problem. Finally, he found his bike!"
+		],
+		[
+			"Hindi pwedeng dumaan si Hiro sa freeway, kaya sa kalye lang siya nag-bike.",
+			"Hiro can't pass on the freeway, so he only bikes on the street."
+		],
+		[
+			"Nag-bike nang nag-bike si Hiro nang maraming oras. Pagkalipa ng dalawang oras, nakarating na rin si Hiro sa pamilihan.",
+			"Hiro has been biking and biking for hours. Two hours later, Hiro arrived at the market."
+		],
+		[
+			"Bumili siya agad ng mga kailangan niya. Pagkatapos, nagpunta na siya agad sa pos opis. Naghulog siya nga mga bills niya.",
+			"He immediately bought what he needed. Then he immediately went to the police station. He dropped his bills."
+		],
+		[
+			"Ngayon, papunta na si Hiro sa bahay ng kaibigan niya. Ang problema, hindi pamilyar si Hiro sa bagong tirahan ng kaibigan niya.",
+			"Now, Hiro is on his way to his friend's house. The problem is, Hiro is not familiar with his friend's new home."
+		],
+		[
+			"Nagtanong siya sa tindero pero hindi alam nito. Naghanap si Hiro ng iba pang tao at nakita niya ang drayber ng bus.",
+			"He asked the salesman but he didn't know. Hiro looked for someone else and saw the bus driver."
+		],
+		[
+			"Nagtanong siya kung alam ba niya kung paano magpunta sa Arlington.",
+			"He asked if he knew how to get to Arlington."
+		],
+		[
+			"At ang sabi ng drayber, \"Oo, dumiretso ka lang sa Roscoe at kumanan ka sa Wyoming at tapas, kumaliwa ka sa simbahan.\"",
+			"And the driver said, \"Yes, just go straight to Roscoe and eat Wyoming and tapas, go left at church.\""
+		],
+		[
+			"Nagpasalamat si Hiro sa drayber at nagpunta sa bahay ng kaibigan niya. Nagkita sina Hiro at ang Kaibigan niya.",
+			"Hiro thanked the driver and went to his friend's house. Hiro and his Friend meet."
+		],
+		[
+			"Buong araw silang nag-usap. Masayang-masaya silang dalawa.",
+			"They talked all day. They were both very happy."
+		],
+		[
+			"Noong uuwi na si Hiro, nakita niya na malambot ang gulong ng bisikleta niya.",
+			"When he got home, he noticed that the wheels of his bike were soft."
+		],
+		[
+			"Humiram sila ng pambomba ng gulang sa kapitbahay dahil wala ang kaibigan niya.",
+			"They borrowed an age bomb from the neighbor because his friend was absent."
+		],
+		[
+			"Sa wakas, maayos na ang bisikleta ni Hiro pero ilang sandali humangin nang malakas at bumuhos ang ulan.",
+			"Finally, Hiro's bike was well but for a moment the rain started to cry out loud."
+		],
+		[
+			"Hindi tumitila ang ulan kaya nagpasiya si Hiro na magbus na lang pabalik sa bahay niya. Pagod na pagod si Hiro ngayong araw na ito.",
+			"The rain didn't stop, so Hiro decided to go back to his house. Hiro is tired today."
 		]
 	]
 }
